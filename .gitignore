@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# Build directories
+build/
+cmake-build-*/
+
+# System files
+.DS_Store
+
+# Spin (model checker)
+pan.*
+pan
+*.trail
